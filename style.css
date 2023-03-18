@@ -1,0 +1,31 @@
+
+
+
+a:link {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.main-body {
+  background-color: rgb(254, 254, 254);
+}
+
+.title {
+  padding-top: 50px;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  font-family: 'Courier New', Courier, monospace
+}
+
